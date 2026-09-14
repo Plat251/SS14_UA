@@ -1,4 +1,3 @@
-
 gun-selected-mode-examine = Поточний вибраний режим вогню: [color={$color}]{$mode}[/color].
 gun-fire-rate-examine = Скорострільність: [color={$color}]{$fireRate}[/color] пострілів на секунду.
 gun-selector-verb = Перемкнути на {$mode}

@@ -1,4 +1,3 @@
-
 ## Entity
 
 crayon-drawing-label = Малюнок: [color={$color}]{$state}[/color] ({$charges}/{$capacity})

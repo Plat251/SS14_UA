@@ -1,4 +1,3 @@
-
 nuke-component-cant-anchor-floor = Болти кріплення не фіксуються на підлозі!
 nuke-component-cant-anchor-toggle = Диск з ядерною автентифікацією необхідний для перемикання болтів на підлозі!
 nuke-component-announcement-sender = Вибухівка Ядерного Розщеплення

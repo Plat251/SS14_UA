@@ -1,4 +1,3 @@
-
 timer-trigger-verb-set = {$time} Секунди
 timer-trigger-verb-set-current = {$time} Секунди (current)
 timer-trigger-verb-cycle = Затримка циклу

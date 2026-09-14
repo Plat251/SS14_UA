@@ -1,4 +1,3 @@
-
 ### UI
 
 rcd-component-examine-mode-details = Наразі він встановлений на режим '{$mode}'.
