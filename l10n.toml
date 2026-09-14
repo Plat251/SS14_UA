@@ -1,0 +1,3 @@
+[[paths]]
+    reference = "Resources/Locale/en-US/**/*.ftl"
+    l10n = "Resources/Locale/{locale}/**/*.ftl"
