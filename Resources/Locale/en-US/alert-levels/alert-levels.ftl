@@ -1,36 +1,36 @@
-alert-level-announcement = Увага! Рівень тривоги на станції {$name}! {$announcement}
+alert-level-announcement = Attention! Station alert level is now {$name}! {$announcement}
 
 alert-level-unknown = Unknown.
 alert-level-unknown-instructions = Unknown.
 
-alert-level-green = Зелений
-alert-level-green-announcement = Наразі безпечно повертатися на свої робочі місця.
-alert-level-green-instructions = Робіть вашу роботу.
+alert-level-green = Green
+alert-level-green-announcement = It is now safe to return to your workplaces.
+alert-level-green-instructions = Do your job.
 
-alert-level-blue = Синій
-alert-level-blue-announcement = Є підтверджена загроза станції. Безпека повинна проводити випадкові перевірки. Членам екіпажу рекомендується бути пильними та повідомляти охороні про підозрілу діяльність.
-alert-level-blue-instructions = Членам екіпажу рекомендується бути пильними та повідомляти охороні про підозрілу діяльність.
+alert-level-blue = Blue
+alert-level-blue-announcement = There is a confirmed threat to the station. Security should perform random checks. Crewmembers are advised to be vigilant and report suspicious activity to security.
+alert-level-blue-instructions = Crewmembers are advised to be vigilant and report suspicious activity to security.
 
-alert-level-red = Червоний
-alert-level-red-announcement = Існує безпосередня загроза станції. Охорона повинна підготуватися до застосування смертельної сили, якщо це необхідно. Члени екіпажу повинні знайти безпечне місце для притулку, і їм рекомендується дотримуватися вказівок будь-якого чинного командування.
-alert-level-red-instructions = Члени екіпажу повинні знайти безпечне місце для притулку, і їм рекомендується дотримуватися будь-яких чинних наказів.
+alert-level-red = Red
+alert-level-red-announcement = There is an immediate threat to the station. Security should prepare to use lethal force if necessary. Crewmembers should find a safe place to shelter in, and are advised to follow any present authorities.
+alert-level-red-instructions = Crewmembers should find a safe place to shelter in, and are advised to follow any present authorities.
 
-alert-level-violet = Фіолетовий
-alert-level-violet-announcement = На станції існує вірусна загроза. Медичному персоналу рекомендовано ізолювати членів екіпажу з будь-якими симптомами. Членам екіпажу рекомендовано дистанціюватися від оточуючих та дотримуватися заходів безпеки для запобігання подальшого поширення вірусу.
-alert-level-violet-instructions = Членам екіпажу рекомендовано дистанціюватися від інших і дотримуватися заходів безпеки, щоб запобігти подальшому поширенню.
+alert-level-violet = Violet
+alert-level-violet-announcement = There is a viral threat on the station. Medical staff are advised to isolate crewmembers with any symptoms. Crewmembers are advised to distance themselves from others and perform safety measures to prevent further spread.
+alert-level-violet-instructions = Crewmembers are advised to distance themselves from others and perform safety measures to prevent further spread.
 
-alert-level-yellow = Жовтий
-alert-level-yellow-announcement = Існує структурна або атмосферна загроза на території станції. Інженерно-технічному персоналу рекомендується негайно відреагувати та вжити заходів безпеки. Членам екіпажу рекомендується триматися подалі від загрози, а в разі необхідності залишатися на своїх робочих місцях.
-alert-level-yellow-instructions = Членам екіпажу рекомендовано триматися подалі від загрози та за необхідності залишатися на своїх робочих місцях.
+alert-level-yellow = Yellow
+alert-level-yellow-announcement = There is a structural or atmospheric threat within the station. Engineering staff are advised to immediately respond and perform safety measures. Crewmembers are advised to stay away from the threat, and stay in their workplaces if necessary.
+alert-level-yellow-instructions = Crewmembers are advised to stay away from the threat, and stay in their workplaces if necessary.
 
-alert-level-gamma = Гамма
-alert-level-gamma-announcement = Центральне командування наказало ввести на станції рівень безпеки "Гамма". Охорона повинна постійно мати при собі зброю, а всі цивільні особи повинні негайно звернутися до свого найближчого керівника для транспортування в безпечне місце.
-alert-level-gamma-instructions = Усі цивільні особи повинні негайно звернутися до найближчого голови для транспортування в безпечне місце.
+alert-level-gamma = Gamma
+alert-level-gamma-announcement = Central Command has ordered the Gamma security level on the station. Security is to have weapons equipped at all times, and all civilians are to immediately seek their nearest head for transportation to a secure location.
+alert-level-gamma-instructions = All civilians are to immediately seek their nearest head for transportation to a secure location.
 
-alert-level-delta = Дельта
-alert-level-delta-nuke-announcement = Наразі станції загрожує неминуче знищення. Екіпажу рекомендується прослухати інформацію від голів відділів.
-alert-level-delta-instructions = Екіпажу рекомендується дослухатися до вказівок голів відділів для отримання додаткової інформації.
+alert-level-delta = Delta
+alert-level-delta-nuke-announcement = The station is currently under threat of imminent destruction. Crewmembers are advised to listen to heads of staff for more information.
+alert-level-delta-instructions = Crewmembers are advised to listen to heads of staff for more information.
 
-alert-level-epsilon = Епсілон
-alert-level-epsilon-announcement = Центральне командування наказало ввести на станції рівень безпеки "Епсілон". Вважайте всі угоди розірваними.
-alert-level-epsilon-instructions = Вважати всі контракти розірваними.
+alert-level-epsilon = Epsilon
+alert-level-epsilon-announcement = Central Command has ordered the Epsilon security level on the station. Consider all contracts terminated.
+alert-level-epsilon-instructions = Consider all contracts terminated.

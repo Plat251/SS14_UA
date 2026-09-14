@@ -1,6 +1,6 @@
-defibrillator-begin = {$name} прикладає електроди дефібрилятора до {$target}
-defibrillator-not-on = Дефібрилятор не увімкнено.
-defibrillator-no-mind = У мозку пацієнта не виявлено ознак розумової діяльності. Подальші спроби марні.
-defibrillator-not-living = Попередження: Ціллю дефібриляції був неживий об'єкт. Спробуйте обрати іншу ціль.
-defibrillator-rotten = Виявлено розкладання тіла: реанімація не вдалася.
-defibrillator-unrevivable = Цього пацієнта неможливо реанімувати через унікальну будову тіла.
+﻿defibrillator-begin = {$name} places the defibrillator pads against {THE($target)}
+defibrillator-not-on = The defibrillator isn't turned on.
+defibrillator-no-mind = No intelligence pattern can be detected in patient's brain. Further attempts futile.
+defibrillator-not-living = Warning: Defibrillation target was an inanimate object. Consider retargeting.
+defibrillator-rotten = Body decomposition detected: resuscitation failed.
+defibrillator-unrevivable = This patient is unable to be revived due to a unique body composition.

@@ -10,7 +10,7 @@ namespace Content.Shared.Localizations
         [Dependency] private ILocalizationManager _loc = default!;
 
         // If you want to change your codebase's language, do it here.
-        private const string Culture = "en-US";
+        private const string Culture = "uk-UA";
 
         /// <summary>
         /// Custom format strings used for parsing and displaying minutes:seconds timespans.
@@ -40,6 +40,8 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(culture, "NATURALPERCENT", FormatNaturalPercent);
             _loc.AddFunction(culture, "PLAYTIME", FormatPlaytime);
 
+            _loc.AddFunction(culture, "MAKEPLURAL", FormatMakePlural);
+            _loc.AddFunction(culture, "MANY", FormatMany);
 
             /*
              * The following language functions are specific to the english localization. When working on your own
@@ -48,6 +50,10 @@ namespace Content.Shared.Localizations
              */
             var cultureEn = new CultureInfo("en-US");
 
+            if (culture.Name != cultureEn.Name)
+            {
+                _loc.LoadCulture(cultureEn);
+            }
             _loc.AddFunction(cultureEn, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(cultureEn, "MANY", FormatMany);
         }
@@ -251,7 +257,7 @@ namespace Content.Shared.Localizations
             // Note that the closing brace isn't replaced so that format specifiers can be applied.
             var res = String.Format(
                 fmtstr.Replace("{UNIT", "{" + $"{fargs.Length - 1}"),
-                fargs
+                                    fargs
             );
 
             return new LocValueString(res);

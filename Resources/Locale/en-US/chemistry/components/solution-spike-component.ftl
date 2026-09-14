@@ -1,4 +1,4 @@
-spike-solution-generic = Ви поклали {$spike-entity} в {$spiked-entity}.
-spike-solution-empty-generic = Ви не можете покласти {$spike-entity} в {$spiked-entity}.
-spike-solution-egg = Ви розбили {$spike-entity} в {$spiked-entity}.
-spike-solution-mix = Ви додаєте {$spike-entity} до {$spiked-entity}.
+spike-solution-generic = You spike {THE($spiked-entity)} with {THE($spike-entity)}.
+spike-solution-empty-generic = {THE($spike-entity)} fails to dissolve in {THE($spiked-entity)}.
+spike-solution-egg = You crack {THE($spike-entity)} into {THE($spiked-entity)}.
+spike-solution-mix = You mix {THE($spike-entity)} into {THE($spiked-entity)}.

@@ -1,0 +1,11 @@
+﻿entity-effect-status-effect-Stun = оглушення
+entity-effect-status-effect-KnockedDown = збиття з ніг
+entity-effect-status-effect-Jitter = тремтіння
+entity-effect-status-effect-SeeingRainbows = галюцинації
+entity-effect-status-effect-Stutter = заїкання
+entity-effect-status-effect-ForcedSleep = непритомність
+entity-effect-status-effect-Drunk = сп'яніння
+entity-effect-status-effect-Pacified = бойова пацифікація
+entity-effect-status-effect-StaminaModifier = змінена витривалість
+entity-effect-status-effect-RadiationProtection = захист від радіації
+entity-effect-status-effect-Drowsiness = сонливість

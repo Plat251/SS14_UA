@@ -1,0 +1,14 @@
+damage-type-asphyxiation = Асфіксія
+damage-type-bloodloss = Втрата крові
+damage-type-blunt = Дробильна
+damage-type-cellular = Клітинна
+damage-type-caustic = Хімічні
+damage-type-cold = Кріогенні
+damage-type-heat = Термічні
+damage-type-piercing = Проникаюча
+damage-type-poison = Отруєння
+damage-type-radiation = Радіація
+damage-type-shock = Електричні
+damage-type-slash = Різана
+damage-type-structural = Структурна
+damage-type-holy = Свята

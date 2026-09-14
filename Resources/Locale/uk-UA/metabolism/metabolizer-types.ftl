@@ -1,0 +1,12 @@
+metabolizer-type-animal = тварини
+metabolizer-type-bloodsucker = кровососа
+metabolizer-type-dragon = дракона
+metabolizer-type-human = людини
+metabolizer-type-slime = слайма
+metabolizer-type-vox = вокса
+metabolizer-type-rat = щура
+metabolizer-type-plant = рослини
+metabolizer-type-dwarf = дворфа
+metabolizer-type-moth = молі
+metabolizer-type-arachnid = арахніда
+metabolizer-type-changeling = генокрада

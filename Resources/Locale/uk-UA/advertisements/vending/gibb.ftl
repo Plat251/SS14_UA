@@ -1,0 +1,12 @@
+﻿advertisement-gibb-1 = Смакота!
+advertisement-gibb-2 = Рекомендовано принаймні одним лікарем!
+advertisement-gibb-3 = Продано понад 1 мільйон напоїв!
+advertisement-gibb-4 = Др. Гібб, що найгірше може статися?
+advertisement-gibb-5 = Др. ГІбб, справжній вибух смаку!
+advertisement-gibb-6 = Повірте мені, я лікар!
+advertisement-gibb-7 = Найкращий цукровий напій у галактиці!
+advertisement-gibb-8 = Космо-кола може стати ГІББнутою!
+thankyou-gibb-1 = Лікар уже тут... у вашому животі!
+thankyou-gibb-2 = Прогноз: смак!
+thankyou-gibb-3 = Насолоджуйтесь 42 смаками!
+thankyou-gibb-4 = Насолоджуйтесь цим солодким смаком!

@@ -1,1 +1,1 @@
-rehydratable-component-expands-message = {$owner} збільшується!
+rehydratable-component-expands-message = {$owner} expands!

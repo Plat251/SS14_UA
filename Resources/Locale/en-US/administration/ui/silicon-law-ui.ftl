@@ -1,12 +1,12 @@
-﻿silicon-law-ui-verb = Керування законами
-silicon-law-ui-title = Адмін: Закони силіконів
-silicon-law-ui-new-law = Новий закон
-silicon-law-ui-save = Зберегти зміни
+﻿silicon-law-ui-verb = Manage Laws
+silicon-law-ui-title = Admin Edit: Silicon Laws
+silicon-law-ui-new-law = New Law
+silicon-law-ui-save = Save Changes
 silicon-law-ui-plus-one = +1
 silicon-law-ui-minus-one = -1
-silicon-law-ui-delete = Видалити
-silicon-law-ui-check-corrupted = Зіпсований закон
-silicon-law-ui-check-corrupted-tooltip = Якщо ідентифікатор закону має бути встановлений як «зіпсований», то символи перетасовуються.
-silicon-law-ui-placeholder = Введіть тут, щоб змінити текст закону...
+silicon-law-ui-delete = Delete
+silicon-law-ui-check-corrupted = Corrupted
+silicon-law-ui-check-corrupted-tooltip = If the Law Number Identifier should be 'corrupted', I.E. Randomly Shuffling Symbols.
+silicon-law-ui-placeholder = Type here to change law text...
 
-silicon-laws-updated = Оновити закони
+silicon-laws-updated = Updated Laws

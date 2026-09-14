@@ -1,4 +1,4 @@
-artifact-crusher-verb-start-crushing = Почати подрібнювати
-artifact-crusher-examine-no-autolocks = Автоблокування машини [color=green]вимкнено[/color].
-artifact-crusher-examine-autolocks = Автоблокування машини [color=red]увімкнено[/color].
-artifact-crusher-autolocks-enable = Замки машини з гуркотом зачинилися!
+artifact-crusher-verb-start-crushing = Start crushing
+artifact-crusher-examine-no-autolocks = The machine's autolocks are [color=green]disabled[/color].
+artifact-crusher-examine-autolocks = The machine's autolocks are [color=red]enabled[/color].
+artifact-crusher-autolocks-enable = The machine's locks snap shut!

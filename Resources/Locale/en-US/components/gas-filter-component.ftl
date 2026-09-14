@@ -1,9 +1,9 @@
-comp-gas-filter-ui-filter-transfer-rate = Швидкість передачі (л/с):
-comp-gas-filter-ui-filter-set-rate = встановити
+comp-gas-filter-ui-filter-transfer-rate = Transfer Rate (L/s):
+comp-gas-filter-ui-filter-set-rate = Set
 
-comp-gas-filter-ui-filter-gas-current = Фільтрується:
-comp-gas-filter-ui-filter-gas-select = Виберіть газ для фільтрації:
-comp-gas-filter-ui-filter-gas-confirm = Вибрати газ
-comp-gas-filter-ui-filter-gas-none = Нічого
+comp-gas-filter-ui-filter-gas-current = Currently Filtering:
+comp-gas-filter-ui-filter-gas-select = Select a gas to filter out:
+comp-gas-filter-ui-filter-gas-confirm = Set Gas
+comp-gas-filter-ui-filter-gas-none = None
 
-comp-gas-filter-filtered-gas-examine = Він фільтрує [color={$statusColor}]{$filteredGas}[/color].
+comp-gas-filter-filtered-gas-examine = It is filtering [color={$statusColor}]{$filteredGas}[/color].

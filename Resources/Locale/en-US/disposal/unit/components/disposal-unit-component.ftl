@@ -2,27 +2,27 @@
 
 ui-disposal-unit-title = {CAPITALIZE($name)}
 
-ui-disposal-unit-label-state = Стан:
-ui-disposal-unit-label-pressure = Стиснення:
-ui-disposal-unit-label-status = Готовий
+ui-disposal-unit-label-state = State:
+ui-disposal-unit-label-pressure = Pressure:
+ui-disposal-unit-label-status = Ready
 
-ui-disposal-unit-button-flush = Змити
-ui-disposal-unit-button-eject = Витягти вміст
-ui-disposal-unit-button-power = Живл.
+ui-disposal-unit-button-flush = Flush
+ui-disposal-unit-button-eject = Eject Contents
+ui-disposal-unit-button-power = Power
 
 ## Verbs
-disposal-flush-verb-get-data-text = Змити
-disposal-eject-verb-get-data-text = Витягти вміст
+disposal-flush-verb-get-data-text = Flush
+disposal-eject-verb-get-data-text = Eject contents
 
 ## Errors
-disposal-unit-no-hands = У тебе немає рук!
-disposal-unit-is-full = Всередині більше немає місця.
+disposal-unit-no-hands = You don't have hands!
+disposal-unit-is-full = There's no more room inside.
 
 # state
-disposal-unit-state-Ready = Готовий
+disposal-unit-state-Ready = Ready
 # Yes I want it to always say Pressurizing
-disposal-unit-state-Flushed = Нагнітання тиску
-disposal-unit-state-Pressurizing = Нагнітання тиску
+disposal-unit-state-Flushed = Pressurizing
+disposal-unit-state-Pressurizing = Pressurizing
 
 # putting people in
-disposal-unit-being-inserted = {CAPITALIZE($user)} намагається заштовхати вас у сміттєпровід!
+disposal-unit-being-inserted = {CAPITALIZE($user)} is trying to force you into a disposal chute!

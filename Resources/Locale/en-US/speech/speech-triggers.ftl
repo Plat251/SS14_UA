@@ -1,1 +1,1 @@
-key-phrase-gadget = го го гаджет
+key-phrase-gadget = go go gadget

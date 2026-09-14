@@ -1,0 +1,12 @@
+﻿advertisement-smite-1 = СМАЙТ! Приборкай свою спрагу!
+advertisement-smite-2 = Неймовірний вибух ароматів лимона та лайму!
+advertisement-smite-3 = Продано понад 1 мільйон напоїв!
+advertisement-smite-4 = СМАЙТ! Кинь 2д8 для визначення ефекту.
+advertisement-smite-5 = СМАЙТ! Завершимо цю паперову роботу!
+advertisement-smite-6 = Прибиральник на тебе зуба має!
+advertisement-smite-7 = СМАЙТ! Від цього не нажреся.
+advertisement-smite-8 = Час лимона та лайму!
+thankyou-smite-1 = Сила в Смайт!
+thankyou-smite-2 = Ти ТОЧНО хотів лимон-лайм!
+thankyou-smite-3 = В офісі навіть не зрозуміють, що їх накрило.
+thankyou-smite-4 = Вгамуйте спрагу.

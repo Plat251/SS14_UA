@@ -1,17 +1,17 @@
-mech-equipment-begin-install = Встановлення {THE($item)}...
-mech-equipment-finish-install = Встановлено {THE($item)}
+mech-equipment-begin-install = Installing {THE($item)}...
+mech-equipment-finish-install = Finished installing {THE($item)}
 
-mech-equipment-select-popup = {$item} вибрано
-mech-equipment-select-none-popup = Нічого не вибрано
+mech-equipment-select-popup = {$item} selected
+mech-equipment-select-none-popup = Nothing selected
 
-mech-ui-open-verb = Відкрити панель
+mech-ui-open-verb = Open control panel
 
-mech-menu-title = Панель контролю
+mech-menu-title = mech control panel
 
-mech-integrity-display = Цілістність: {$amount}%
-mech-energy-display = Зарядка: {$amount}%
-mech-energy-missing = Живлення: MISSING
-mech-slot-display = Доступні місця: {$amount}
+mech-integrity-display = Integrity: {$amount}%
+mech-energy-display = Energy: {$amount}%
+mech-energy-missing = Energy: MISSING
+mech-slot-display = Open Slots: {$amount}
 
-mech-construction-guide-string = Усі деталі меха мають бути прикріплені до каркаса.
-mech-construction-guide-string-vim = До каркаса мають бути прикріплені дві ноги борга та шолом EVA.
+mech-construction-guide-string = All mech parts must be attached to the harness.
+mech-construction-guide-string-vim = Two borg legs and an EVA helmet must be attached to the harness.

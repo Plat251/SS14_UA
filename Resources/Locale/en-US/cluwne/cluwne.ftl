@@ -1,4 +1,4 @@
-cluwne-transform = {CAPITALIZE($target)} перетворюється на клуню!
-cluwne-name-prefix = клоунізований {$baseName}
-cluwne-knock-emote = конвульсує
-cluwne-giggle-emote = гонкає
+cluwne-transform = {CAPITALIZE(THE($target))} turned into a cluwne!
+cluwne-name-prefix = cluwnified {$baseName}
+cluwne-knock-emote = spasms
+cluwne-giggle-emote = honks

@@ -1,50 +1,53 @@
-reagent-name-desoxyephedrine = дезоксиефедрин
-reagent-desc-desoxyephedrine = Дезоксиефедрин це потужний стимулятор з небезпечними побічними ефектами при надмірному вживанні.
+reagent-name-desoxyephedrine = desoxyephedrine
+reagent-desc-desoxyephedrine = A more effective ephedrine, with more active downsides. Requires less doses to cure narcolepsy.
 
-reagent-name-ephedrine = ефедрин
-reagent-desc-ephedrine = Підвищує стійкість до оглушення та швидкість руху, викликаючи судоми рук. Передозування спричиняє токсичне пошкодження та перешкоджає диханню.
+reagent-name-ephedrine = ephedrine
+reagent-desc-ephedrine = A caffeinated adrenaline stimulator chemical that makes you faster and harder to knock down. Also helps combat narcolepsy at dosages over thirty, at the cost of severe nerval stress.
 
-reagent-name-stimulants = гіперзин
-reagent-desc-stimulants = хімічний коктейль, розроблений Donk Co., який дозволяє агентам швидше відновлюватися після оглушення, швидше рухатися та надає невелике зцілення, коли стан близький до критичного. Через складну природу хімічної речовини, організму набагато важче очиститися природним шляхом.
+reagent-name-stimulants = hyperzine
+reagent-desc-stimulants = A chemical cocktail developed by Donk Co. that allows agents to recover from stuns faster, move more quickly, and grants a small heal when you're more dead than alive. Due to the complex nature of the chemical, it is much harder for the body to purge naturally.
 
-reagent-name-experimental-stimulants = експериментальні стимулятори
-reagent-desc-experimental-stimulants = Прототипна версія гіперзину. Використання надає віртуальний імунітет до приголомшливої ​​зброї, швидку регенерацію тканин, надзвичайну швидкість бігу за рахунок зменшення накопичення молочної кислоти та загальне відчуття ейфорії. Побічні ефекти можуть включати екстремальний рівень антикоагуляції, тунельний зір, екстремальне накопичення токсинів у крові та швидку смерть печінки. Не давати тваринам.
+reagent-name-experimental-stimulants = experimental stimulants
+reagent-desc-experimental-stimulants = A prototype version of hyperzine. Usage grants virtual immunity to stun weaponry, rapid tissue regeneration, extreme running speed by reducing lactic acid buildup, and a general feeling of euphoria. Side effects may include extreme levels of anticoagulation, tunnel vision, extreme toxin buildup in the bloodstream, and rapid liver death. Do not give to animals.
 
-reagent-name-thc = ТГК
-reagent-desc-thc = Основна психоактивна сполука в канабісі.
+reagent-name-thc = THC
+reagent-desc-thc = The main psychoactive compound in cannabis.
 
-reagent-name-bananadine = Бананадін
-reagent-desc-bananadine = Легкий психоделік, який у невеликих кількостях міститься в банановій шкірці.
+reagent-name-bananadine = bananadine
+reagent-desc-bananadine = A mild psychedelic that is found in small traces in banana peels.
 
-reagent-name-nicotine = Нікотин
-reagent-desc-nicotine = Небезпечний і викликає сильну залежність.
+reagent-name-nicotine = nicotine
+reagent-desc-nicotine = Dangerous and highly addictive, but that's what the propaganda says.
 
-reagent-name-impedrezene = імпедрезин
-reagent-desc-impedrezene = Наркотик, який обмежує дієздатність людини, сповільнюючи вищі функції клітин головного мозку. Викликає масивні пошкодження мозку.
+reagent-name-impedrezene = impedrezene
+reagent-desc-impedrezene = A narcotic that impedes one's ability by slowing down the higher brain cell functions.
 
-reagent-name-space-drugs = космічні наркотики
-reagent-desc-space-drugs = Нелегальна сполука, яка викликає низку ефектів, таких як втрата рівноваги та візуальні галюцинації.
+reagent-name-space-drugs = space mirage
+reagent-desc-space-drugs = An illegal compound which induces a number of effects such as loss of balance and visual artefacts.
 
-reagent-name-nocturine = ноктурин
-reagent-desc-nocturine = Змушує вас почуватися дуже втомленими і нездатними підвестись. По суті це болгарська валеріана.
+reagent-name-nocturine = nocturine
+reagent-desc-nocturine = A highly effective sedative and hypnotic, developed by the Syndicate for stealth operations. One-way ticket to honk-shoo town.
 
-reagent-name-mute-toxin = мовчанка
-reagent-desc-mute-toxin = Робить вас нездатними говорити під час засвоєння.
+reagent-name-mute-toxin = mute toxin
+reagent-desc-mute-toxin = A thick chemical that coats the vocal cords, making the user unable to speak during metabolization.
 
-reagent-name-tacitic-acid = тацитова кислота
-reagent-desc-tacitic-acid = Паралітична речовина, що вражає гортань, позбавляючи здатності говорити. Через оніміння ціль не здогадується про це, доки не спробує заговорити.
+reagent-name-tacitic-acid = tacitic acid
+reagent-desc-tacitic-acid = A paralytic agent that targets the larynx, rendering the user incapable of speech. Due to the numbing effect, the target is unaware until they try to speak.
 
-reagent-name-norepinephric-acid = норепінефринова кислота
-reagent-desc-norepinephric-acid = М'яка хімічна речовина, що блокує зорові рецептори, позбавляючи зору під час метаболізму.
+reagent-name-norepinephric-acid = norepinephric acid
+reagent-desc-norepinephric-acid = A smooth chemical that blocks the optical receptors, rendering the user blind during metabolization.
 
-reagent-name-tear-gas = сльозогінний газ
-reagent-desc-tear-gas = Хімічна речовина, яка викликає сильне роздратування та плач, зазвичай використовується для боротьби з масовими заворушеннями.
+reagent-name-tear-gas = tear gas
+reagent-desc-tear-gas = A chemical that causes severe irritation and crying, commonly used in riot control.
 
-reagent-name-happiness = щастя
-reagent-desc-happiness = Наповнює вас екстатичним заціпенінням і викликає незначне пошкодження мозку. Сильне звикання. При передозуванні викликає різкі зміни настрою.
+reagent-name-happiness = happiness
+reagent-desc-happiness = Fills you with ecstatic numbness and causes minor brain damage. Highly addictive. If overdosed causes sudden mood swings.
 
-reagent-name-Hydroxysomnolene = Гідроксисомнолен
-reagent-desc-Hydroxysomnolene = Побічний продукт метаболізму метилендіоксистрахінону (також відомого як «Полуничний лід»). Він зв'язується з щойно звільненими нейрорецепторами в мозку після того, як метилендіоксистрахінон виводиться з організму, викликаючи загальмованість і сонливість. Єдині способи зменшити його ефект — зачекати або прийняти ще одну дозу цієї полуничної насолоди...
+reagent-name-Hydroxysomnolene = Hydroxysomnolene
+reagent-desc-Hydroxysomnolene = Byproduct of Methylenedioxystraquinone (aka Strawberry Ice) when metabolized. It binds to the newly vacant neuroreceptors in the brain after Methylenedioxystraquinone is flushed out of the system, causing slowness and drowsiness. The only ways to reduce its effects is to either wait it out, or take another hit of that strawberry goodness...
 
-reagent-name-StrawberryIce = Метилендіоксистрахінон
-reagent-desc-StrawberryIce = Особливий препарат, розроблений для того, щоб бути ще сильнішим за дезоксиефедрин. Відомий як «Полуничний лід» або «Дівочий лід» завдяки своєму кольору та смаку, він надзвичайно адиктивний і викликає важкий синдром відміни. Хоча ейфорія від нього сильніша, а споживачі повідомляють, що під його дією вони летять крізь веселки у космосі, на тих, хто припиняє його вживання, чекають майже вічні жахи.
+reagent-name-StrawberryIce = Methylenedioxystraquinone
+reagent-desc-StrawberryIce = A special drug designed to be even stronger than Desoxyephedrine. Known as "Strawberry Ice" or "Girl Ice" given its color and flavor, it is incredibly addictive and comes with strong withdrawal symptoms. While the highs are higher and users report flying in rainbows through space while under its influence, near-eternal horrors await those who cease consuming it.
+
+reagent-name-nyctalon = nyctalon
+reagent-desc-nyctalon = An irradiated medicine derived from oculine, this drug stimulates the rod and cone cells of the user's retina, enabling excellent night vision. This comes at a consequence of mild radiation sickness.

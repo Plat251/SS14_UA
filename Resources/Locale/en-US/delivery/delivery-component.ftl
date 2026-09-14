@@ -1,34 +1,34 @@
-delivery-recipient-examine = Це призначено для {$recipient}, {$job}.
-delivery-already-opened-examine = Воно вже було відкрито.
-delivery-earnings-examine = Доставка цього принесе станції [color=yellow]{$spesos}[/color] спесос.
-delivery-recipient-no-name = Без імені
-delivery-recipient-no-job = Невідомо
+delivery-recipient-examine = This one is meant for {$recipient}, {$job}.
+delivery-already-opened-examine = It was already opened.
+delivery-earnings-examine = Delivering this will earn the station [color=yellow]{$spesos}[/color] spesos.
+delivery-recipient-no-name = Unnamed
+delivery-recipient-no-job = Unknown
 
-delivery-unlocked-self = Ви розблоковуєте {$delivery} відбитком свого пальця.
-delivery-opened-self = Ви відкриваєте {$delivery}.
-delivery-unlocked-others = {CAPITALIZE($recipient)} розблокував(ла) {$delivery} відбитком {POSS-ADJ($possadj)} пальця.
-delivery-opened-others = {CAPITALIZE($recipient)} відкрив(ла) {$delivery}.
+delivery-unlocked-self = You unlock the {$delivery} with your fingerprint.
+delivery-opened-self = You open the {$delivery}.
+delivery-unlocked-others = {CAPITALIZE($recipient)} unlocked the {$delivery} with {POSS-ADJ($possadj)} fingerprint.
+delivery-opened-others = {CAPITALIZE($recipient)} opened the {$delivery}.
 
-delivery-unlock-verb = Розблокувати
-delivery-open-verb = Відкрити
-delivery-slice-verb = Розрізати
+delivery-unlock-verb = Unlock
+delivery-open-verb = Open
+delivery-slice-verb = Slice open
 
 delivery-teleporter-amount-examine =
     { $amount ->
-        [one] Містить [color=yellow]{$amount}[/color] посилку.
-        *[other] Містить [color=yellow]{$amount}[/color] посилок.
+        [one] It contains [color=yellow]{$amount}[/color] delivery.
+        *[other] It contains [color=yellow]{$amount}[/color] deliveries.
     }
-delivery-teleporter-empty = {$entity} порожній.
-delivery-teleporter-empty-verb = Взяти пошту
+delivery-teleporter-empty = The {$entity} is empty.
+delivery-teleporter-empty-verb = Take mail
+
 
 # modifiers
-delivery-priority-examine = Це [color=orange]пріоритетний {$type}[/color]. У вас залишилось [color=orange]{$time}[/color], щоб доставити його та отримати бонус.
-delivery-priority-delivered-examine = Це [color=orange]пріоритетний {$type}[/color]. Його доставлено вчасно.
-delivery-priority-expired-examine = Це [color=orange]пріоритетний {$type}[/color]. Час на доставку минув.
+delivery-priority-examine = This is a [color=orange]priority {$type}[/color]. You have [color=orange]{$time}[/color] left to deliver it to get a bonus.
+delivery-priority-delivered-examine = This is a [color=orange]priority {$type}[/color]. It got delivered on time.
+delivery-priority-expired-examine = This is a [color=orange]priority {$type}[/color]. It ran out of time.
 
-delivery-fragile-examine = Це [color=red]крихкий {$type}[/color]. Доставте його неушкодженим, щоб отримати бонус.
-delivery-fragile-broken-examine = Це [color=red]крихкий {$type}[/color]. Виглядає сильно пошкодженим.
+delivery-fragile-examine = This is a [color=red]fragile {$type}[/color]. Deliver it intact for a bonus.
+delivery-fragile-broken-examine = This is a [color=red]fragile {$type}[/color]. It looks badly damaged.
 
-
-delivery-bomb-examine = Це [color=purple]бомба {$type}[/color]. О, ні.  
-delivery-bomb-primed-examine = Це [color=purple]бомба {$type}[/color]. Читати це — погана трата часу.
+delivery-bomb-examine = This is a [color=purple]bomb {$type}[/color]. Oh no.
+delivery-bomb-primed-examine = This is a [color=purple]bomb {$type}[/color]. Reading this is a bad use of your time.
