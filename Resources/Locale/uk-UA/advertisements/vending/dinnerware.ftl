@@ -1,4 +1,4 @@
-﻿advertisement-dinnerware-1 = Мм, їжа!
+advertisement-dinnerware-1 = Мм, їжа!
 advertisement-dinnerware-2 = Наче мати готувала!
 advertisement-dinnerware-3 = Візьміть свої тарілки!
 advertisement-dinnerware-4 = Сьогодні борщ не подаємо!

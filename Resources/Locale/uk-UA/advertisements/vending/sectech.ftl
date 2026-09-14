@@ -1,4 +1,4 @@
-﻿advertisement-sectech-1 = Тріскайте кацапські черепи!
+advertisement-sectech-1 = Тріскайте кацапські черепи!
 advertisement-sectech-2 = Розбийте кілька голів!
 advertisement-sectech-3 = Не забувайте - шкода на користь!
 advertisement-sectech-4 = Ваша зброя тут.

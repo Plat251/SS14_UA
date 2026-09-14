@@ -1,1 +1,1 @@
-﻿construction-graph-component-billiard-ball = Додайте більярдну кулю
+construction-graph-component-billiard-ball = Додайте більярдну кулю
