@@ -15,6 +15,7 @@ device-frequency-prototype-name-xenoborg = Ксеноборг
 device-frequency-prototype-name-mothership = Mothership
 
 ## camera frequencies
+
 device-frequency-prototype-name-surveillance-camera-test = Підмережевий Тест
 device-frequency-prototype-name-surveillance-camera-engineering = Камери Інженерного Відділу
 device-frequency-prototype-name-surveillance-camera-security = Камери Відділу Безпеки
@@ -25,7 +26,6 @@ device-frequency-prototype-name-surveillance-camera-service = Камери Се�
 device-frequency-prototype-name-surveillance-camera-medical = Камери Медичного Відділу
 device-frequency-prototype-name-surveillance-camera-general = Камери Загального Огляду
 device-frequency-prototype-name-surveillance-camera-entertainment = Камери Розважального Спрямування
-
 # prefixes for randomly generated device addresses
 device-address-prefix-vent = VNT-
 device-address-prefix-scrubber = SCR-
@@ -37,16 +37,12 @@ device-address-prefix-freezer = FZR-
 device-address-prefix-volume-pump = VPP-
 device-address-prefix-smes = SMS-
 device-address-prefix-turret = TRT-
-
 # PDAs and terminals
 device-address-prefix-console = CLS-
 device-address-prefix-fire-alarm = FIR-
 device-address-prefix-air-alarm = AIR-
-
 device-address-prefix-sensor-monitor = MON-
-
-device-address-examine-message = Адреса пристрою - це {$address}.
-
+device-address-examine-message = Адреса пристрою - це { $address }.
 # Device net ID names
 device-net-id-private = Приватний
 device-net-id-wired = Дротові
@@ -54,6 +50,5 @@ device-net-id-wireless = Бездротовий
 device-net-id-apc = ЗКЖ
 device-net-id-atmos-devices = Пристрої атмосу
 device-net-id-reserved = Зарезервовано
-
 # Unknown
 device-address-unknown = ????-????

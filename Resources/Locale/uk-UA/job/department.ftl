@@ -8,5 +8,4 @@ department-Security = Служба безпеки
 department-Science = Дослідження та Розробка
 department-Silicon = Силікони
 department-Specific = Специфічні для станції
-
 department-Unknown = Невідомо

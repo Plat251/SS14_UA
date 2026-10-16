@@ -14,20 +14,16 @@ store-category-wearables = Одяг
 store-category-pointless = Пустощі
 store-category-objective = Цілі
 store-discounted-items = Знижки
-
 # Revenant
 store-category-abilities = Здібності
-
 # Wizard
 store-category-spellbook-offensive = Бойові заклинання
 store-category-spellbook-defensive = Захисні заклинання
 store-category-spellbook-utility = Допоміжні заклинання
 store-category-spellbook-equipment = Спорядження чарівника
 store-category-spellbook-events = Особливі заклинання
-
 # Nukie Delivery
 store-category-nukie-delivery = Пропозиції
-
 # Changeling
 store-category-combat = Бойове
 store-category-utility = Спорядження
