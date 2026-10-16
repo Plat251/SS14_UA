@@ -9,5 +9,4 @@ ui-escape-disconnect = Відєднатися
 ui-escape-quit = Вийти
 ui-escape-feedback = Відгук
 ui-escape-remarks = Примітки адміністратора
-
 ui-escape-remarks-button-disabled = Цю функцію вимкнено сервером.
