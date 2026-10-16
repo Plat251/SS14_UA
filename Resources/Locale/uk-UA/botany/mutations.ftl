@@ -8,3 +8,7 @@ mutation-plant-seedless = Її зібрані плоди не мають нас�
 mutation-plant-sampled = Зразок з неї вже відібрано.
 mutation-plant-description-kudzu = Вона тонка та росте незвичайно швидко.
 mutation-plant-description-ligneous = Вона дерев'яниста, для збирання потрібен гострий інструмент.
+mutation-plant-description-scream = Ця рослина якимось чином виглядяає знервованою.
+mutation-plant-description-unviable = Вона в'яне та хворіє.
+mutation-plant-description-seedless = Її плоди не мають насіння.
+mutation-plant-description-sampled = Її зразки вже були взяті.
