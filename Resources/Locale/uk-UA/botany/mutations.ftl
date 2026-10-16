@@ -6,3 +6,5 @@ mutation-plant-slippery = Вона слизька на дотик.
 mutation-plant-unviable = Вона в'яне та виглядає хворобливою.
 mutation-plant-seedless = Її зібрані плоди не мають насіння.
 mutation-plant-sampled = Зразок з неї вже відібрано.
+mutation-plant-description-kudzu = Вона тонка та росте незвичайно швидко.
+mutation-plant-description-ligneous = Вона дерев'яниста, для збирання потрібен гострий інструмент.
